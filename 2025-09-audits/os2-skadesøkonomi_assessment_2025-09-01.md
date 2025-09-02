@@ -44,31 +44,39 @@
 
 | #   | Niveau    | Krav                                                       | Vurderingskriterie                                                    | Vurdering     | Vurderingsgrundlag    |
 |-----|-----------|------------------------------------------------------------|-----------------------------------------------------------------------|---------------|-----------------------|
-| S1  | 1         | Produktet har kobling til OS2's strategi                   | Standard: Understøtter OS2’s mission og vision.                       | 🟢 / 🟡 / 🔴 |                       |
-| S2  | 1         | Løsningen understøtter innovation og open source           | Standard: Fremmer innovation og åbenhed.                              | 🟢 / 🟡 / 🔴 |                       |
-| S3  | 2         | Kobling til OS2's mission, vision og strategi er beskrevet | Standard: Forbindelsen er beskrevet.                                  | 🟢 / 🟡 / 🔴 |                       |
-| S4  | 2         | Vision og strategi for produktet er udarbejdet             | Standard: Der findes en formel vision og strategi for produktet.      | 🟢 / 🟡 / 🔴 |                       |
-| S5  | 3         | Produktets overensstemmelse med OS2's vision og strategi   | Standard: Tydelig sammenhæng og beskrivelse.                          | 🟢 / 🟡 / 🔴 |                       |
+| S1  | 1         | Produktet har kobling til OS2's strategi                   | Standard: Understøtter OS2’s mission og vision.                       | 🟢 | Matcher mission og værdiskabelse i OS2. |
+| S2  | 1         | Løsningen understøtter innovation og open source           | Standard: Fremmer innovation og åbenhed.                              | 🟢 | Open source QGIS-løsning som anvender data til værdiskabelse. Vurderes at fremme innovation. |
+| S3  | 2         | Kobling til OS2's mission, vision og strategi er beskrevet | Standard: Forbindelsen er beskrevet.                                  | 🟡 | Produktsiden beskriver formål, men ikke den eksplicitte strategisk kobling. |
+| S4  | 2         | Vision og strategi for produktet er udarbejdet             | Standard: Der findes en formel vision og strategi for produktet.      | 🟡 | Vision nævnes, men uden detaljeret strategi. |
+| S5  | 3         | Produktets overensstemmelse med OS2's vision og strategi   | Standard: Tydelig sammenhæng og beskrivelse.                          | 🟢 | Løsningen bidrager til digital suverænitet og fælles ejerskab. |
 
 ## 👥 GOVERNANCE
 
 | #    | Niveau    | Krav                                                       | Vurderingskriterie                                                            | Vurdering     | Vurderingsgrundlag    |
 |------|-----------|------------------------------------------------------------|-------------------------------------------------------------------------------|---------------|-----------------------|
-| G1   | 1         | Produktet er oprettet i OS2's porteføljestyring            | Standard: Findes i OS2’s porteføljedatabase, hjemmeside og årshjul.           | 🟢 / 🟡 / 🔴 |                       |
-| G2   | 1         | Der koordineres løbende med OS2-sekretariatet              | Standard: Der er løbende kontakt med sekretariatet.                           | 🟢 / 🟡 / 🔴 |                       |
-| G3   | 1         | Projektleder/tovholder er udpeget                          | Standard: Der er udpeget en fast kontaktperson/koordinator.                   | 🟢 / 🟡 / 🔴 |                       |
-| G4   | 1         | Bestyrelsen er orienteret                                  | Standard: Bestyrelsen kender til projektet.                                   | 🟢 / 🟡 / 🔴 |                       |
-| G5   | 2         | Bestyrelsen har godkendt produktet                         | Standard: Formelt godkendt i referater.                                       | 🟢 / 🟡 / 🔴 |                       |
-| G6   | 2         | Der er nedsat en styregruppe                               | Standard: Der findes en aktiv styregruppe.                                    | 🟢 / 🟡 / 🔴 |                       |
-| G7   | 2         | Der er nedsat en koordinationsgruppe                       | Standard: Der findes en aktiv koordinationsgruppe.                            | 🟢 / 🟡 / 🔴 |                       |
-| G8   | 2         | Projektmodel anvendes og dokumenteret (anbefaling)         | Standard: Der arbejdes efter en dokumenteret projektmodel.                    | 🟢 / 🟡 / 🔴 |                       |
-| G9   | 2         | Review af kode foretages af tredjepart (anbefaling)        | Standard: Uafhængig kodegennemgang gennemføres og procedure er beskrevet.     | 🟢 / 🟡 / 🔴 |                       |
-| G10  | 2         | Tilslutningserklæring til sikring af økonomi (anbefaling)  | Standard: OS2-tilslutningsaftale findes og er effektueret.                    | 🟢 / 🟡 / 🔴 |                       |
-| G11  | 3         | Bestyrelsen har godkendt styregruppen                      | Standard: Formelt godkendt i referater.                                       | 🟢 / 🟡 / 🔴 |                       |
-| G12  | 3         | Bestyrelsen er repræsenteret i styregruppen                | Standard: Bestyrelsesmedlem deltager.                                         | 🟢 / 🟡 / 🔴 |                       |
-| G13  | 3         | Aftale sikrer økonomi til koordinering og videreudvikling  | Standard: Aftaler om finansiering er på plads og budget udarbejdet.           | 🟢 / 🟡 / 🔴 |                       |
-| G14  | 3         | Fagligt fællesskab bag løsningen                           | Standard: Aktivt fællesskab, fx brugerklub, forum eller andet netværk.        | 🟢 / 🟡 / 🔴 |                       |
+| G1   | 1         | Produktet er oprettet i OS2's porteføljestyring            | Standard: Findes i OS2’s porteføljedatabase, hjemmeside og årshjul.           | 🟡 | Produktside, kommissorium og takstblad findes. Der er umiddelbart ikke en fast praksis for publisering af relevante dokumenter som f.eks. mødereferater.  |
+| G2   | 1         | Der koordineres løbende med OS2-sekretariatet              | Standard: Der er løbende kontakt med sekretariatet.                           | 🟡 | Sekretariatet er tilknyttet men der er ingen fast procedure for orienteringer til sekretariatet eller inddragelse. |
+| G3   | 1         | Projektleder/tovholder er udpeget                          | Standard: Der er udpeget en fast kontaktperson/koordinator.                   | 🟡 | Ikke klart angivet om der er en fast koordinator. Den samlede styregruppe fremstår som kontakled. |
+| G4   | 1         | Bestyrelsen er orienteret                                  | Standard: Bestyrelsen kender til projektet.                                   | 🟢 | Optaget som OS2-produkt. |
+| G5   | 2         | Bestyrelsen har godkendt produktet                         | Standard: Formelt godkendt i referater.                                       | 🔴 | Der foreligger ikke en formel godkendelse. |
+| G6   | 2         | Der er nedsat en styregruppe                               | Standard: Der findes en aktiv styregruppe.                                    | 🟢 | Der er etableret en bred Styregruppen med deltagelse fra mange forskellige aktører. |
+| G7   | 2         | Der er nedsat en koordinationsgruppe                       | Standard: Der findes en aktiv koordinationsgruppe.                            | 🟡 | Der er ingen dokumentation for en koordinationsgruppe. Det må formodes at styregruppen også dækker denne funktion. |
+| G8   | 2         | Projektmodel anvendes og dokumenteret (anbefaling)         | Standard: Der arbejdes efter en dokumenteret projektmodel.                    | 🔴 | Ingen offentlig dokumentation om anvendelse af en projektmodel. |
+| G9   | 2         | Review af kode foretages af tredjepart (anbefaling)        | Standard: Uafhængig kodegennemgang gennemføres og procedure er beskrevet.     | 🔴 | Ingen dokumentation for at der foretages review. |
+| G10  | 2         | Tilslutningserklæring til sikring af økonomi (anbefaling)  | Standard: OS2-tilslutningsaftale findes og er effektueret.                    | 🟢 | Tilslutningsaftale og takstblad findes. |
+| G11  | 3         | Bestyrelsen har godkendt styregruppen                      | Standard: Formelt godkendt i referater.                                       | 🔴 | Der foreligger ikke en formel godkendelse. |
+| G12  | 3         | Bestyrelsen er repræsenteret i styregruppen                | Standard: Bestyrelsesmedlem deltager.                                         | 🔴 | Ingen bestyrelsesrepræsentation. |
+| G13  | 3         | Aftale sikrer økonomi til koordinering og videreudvikling  | Standard: Aftaler om finansiering er på plads og budget udarbejdet.           | 🟢 | Tilslutningsaftale og takstblad findes men der er ikke midler til koordinering. |
+| G14  | 3         | Fagligt fællesskab bag løsningen                           | Standard: Aktivt fællesskab, fx brugerklub, forum eller andet netværk.        | 🟡 | Der er aktivitet, men ingen klar struktur. |
 
+---
+
+### ➡️ Antal krav
+* Relevans: 4 krav (R1–R4)
+* Formkrav: 20 krav (F1–F22, minus F8 og F9 som er sammenlagt med F7)
+* Strategisk sammenhæng: 5 krav (S1–S5)
+* Governance: 14 krav (G1–G14)
+* *I alt: 43 krav*
 
 ---
 
