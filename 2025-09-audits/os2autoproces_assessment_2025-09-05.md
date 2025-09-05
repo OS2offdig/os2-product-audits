@@ -104,21 +104,21 @@ Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse o
 ### 📊 Optælling af vurderinger pr. niveau og tema
 
 | Niveau      | 🟢 Grøn  | 🟡 Gul   | 🔴 Rød   | I alt |
-|-------------|----------|---------|---------|-------|
-| Sandkasse   | xx       | xx      | xx      | xx    |
-| Niveau 1    | xx       | xx      | xx      | xx    |
-| Niveau 2    | xx       | xx      | xx      | xx    |
-| Niveau 3    | xx       | xx      | xx      | xx    |
-| **Samlet**  | xx       | xx      | xx      | xx    |
+|-------------|----------|---------|---------|---------|
+| Sandkasse   | 2        | 3       | 1       | 6       |
+| Niveau 1    | 6        | 4       | 0       | 10      |
+| Niveau 2    | 6        | 10      | 3       | 19      |
+| Niveau 3    | 1        | 2       | 5       | 8       |
+| **Samlet**  | 15       | 19      | 9       | 43      |
 
 
 | Tema / Niveau        | Sandkasse<br/>(6 krav)   | Niveau 1<br/>(6+10 krav) | Niveau 2<br/>(19 + 16 krav) | Niveau 3<br/>>(8 + 35 krav) | Total                   |
 |----------------------|--------------------------|--------------------------|-----------------------------|-----------------------------|-------------------------|
-| Relevans             | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
-| Formkrav             | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
-| Strategisk sammenhæng| 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
-| Governance           | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
-| **Samlet**           | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | 🟢x <br/> 🟡y <br/> 🔴z|
+| Relevans             | 🟢 1                    |                           | 🟢 1 🟡 1                  | 🟡 1                        | 🟢 2 🟡 2              |
+| Formkrav             | 🟢 1 🟡 3 🔴 1         | 🟢 2 🟡 2                | 🟢 3 🟡 5 🔴 1              | 🔴 2                        | 🟢 6 🟡 10 🔴 4       |
+| Strategisk sammenhæng|                         | 🟢 2                     | 🟡 2                        | 🟢 1                        | 🟢 3 🟡 2              |
+| Governance           |                         | 🟢 2 🟡 2                | 🟢 2 🟡 2 🔴 2             | 🟡 1 🔴 3                   | 🟢 4 🟡 5 🔴 5         |
+| **Samlet**     | 🟢 2 (33%) 🟡 3 (50%) 🔴 1 (17%) | 🟢 6 (50%) 🟡 4 (50%) | 🟢 6 (9%) 🟡 10 (18%) 🔴 3 (45%) | 🟢 1 (37%) 🟡 2 (40%) 🔴 5 (23%) |🟢 15 (35%) 🟡 19 (44%) 🔴 9 (21%) |
 
 <!--
 Nedenfor er mermaid kode til at vise procentfordeling i lagkagediagrammer.
