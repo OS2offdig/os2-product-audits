@@ -154,7 +154,7 @@ pie showData
 
 ```mermaid
   %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+  "pie2": "#008000", "pie3": "#FFFF00", "pie1": "#FF0000"
 }}}%%
 pie showData
   title Niveau 3 (8 krav)
@@ -164,8 +164,8 @@ pie showData
 ```
 
 ```mermaid
-  %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+%%{init: {"themeVariables": {
+  "pie": ["#008000", "#FFFF00", "#FF0000"]
 }}}%%
 pie showData
   title Samlet (43 krav)
