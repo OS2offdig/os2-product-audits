@@ -119,6 +119,11 @@ __Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse
 | Governance           |                            | 🟢 1 🟡 3                | 🟢 2 🟡 1 🔴 3          | 🟢 1 🟡 1 🔴 2           | 🟢 4 🟡 5 🔴 5            |
 | **Samlet**           | 🟢 2 (33%) <br/> 🟡 3 (50%) <br/> 🔴 1 (17%) | 🟢 5 (50%) <br/> 🟡 4 (40%) <br/> 🔴 1 (10%) | 🟢 8 (42%) <br/> 🟡 8 (42%) <br/> 🔴 3 (16%) | 🟢 2 (25%) <br/> 🟡 2 (25%) <br/> 🔴 4 (50%) | 🟢 17 (40%) <br/> 🟡 17 (40%) <br/> 🔴 9 (20%) |
 
+<!--
+Nedenfor er mermaid kode til at vise procentfordeling i lagkagediagrammer.
+Bemærk at mermaid renderer efter størrelse på værdi. Så er Grøn størst vil det være pie1, men er rød størst vil det være pie1. Derfor skal du ændre på themeVariables så farvekoder bliver korrekte.
+-->
+
 ```mermaid
 %%{init: {"themeVariables": {
   "pie2": "#008000", "pie1": "#FFFF00", "pie3": "#FF0000"
@@ -153,7 +158,7 @@ pie showData
 ```
 
 ```mermaid
-  %%{init: {"themeVariables": {
+%%{init: {"themeVariables": {
   "pie2": "#008000", "pie3": "#FFFF00", "pie1": "#FF0000"
 }}}%%
 pie showData
@@ -165,7 +170,7 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie": ["#008000", "#FFFF00", "#FF0000"]
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Samlet (43 krav)
