@@ -118,7 +118,7 @@ Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse o
 | Formkrav             | 🟢 1 🟡 3 🔴 1         | 🟢 2 🟡 2                | 🟢 3 🟡 5 🔴 1              | 🔴 2                        | 🟢 6 🟡 10 🔴 4       |
 | Strategisk sammenhæng|                         | 🟢 2                     | 🟡 2                        | 🟢 1                        | 🟢 3 🟡 2              |
 | Governance           |                         | 🟢 2 🟡 2                | 🟢 2 🟡 2 🔴 2             | 🟡 1 🔴 3                   | 🟢 4 🟡 5 🔴 5         |
-| **Samlet**     | 🟢 2 (33%) 🟡 3 (50%) 🔴 1 (17%) | 🟢 6 (50%) 🟡 4 (50%) | 🟢 6 (9%) 🟡 10 (18%) 🔴 3 (45%) | 🟢 1 (37%) 🟡 2 (40%) 🔴 5 (23%) |🟢 15 (35%) 🟡 19 (44%) 🔴 9 (21%) |
+| **Samlet** | 🟢 2 (33%)<br/> 🟡 3 (50%)<br/> 🔴 1 (17%) | 🟢 6 (60%)<br/> 🟡 4 (40%) | 🟢 6 (32%)<br/> 🟡 10 (53%)<br/> 🔴 3 (16%) | 🟢 1 (14%)<br/> 🟡 2 (29%)<br/> 🔴 5 (57%) | 🟢 15 (35%)<br/> 🟡 19 (44%)<br/> 🔴 9 (21%) |
 
 <!--
 Nedenfor er mermaid kode til at vise procentfordeling i lagkagediagrammer.
@@ -138,13 +138,12 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+  "pie1": "#008000", "pie2": "#FFFF00"
 }}}%%
 pie showData
   title Niveau 1 (10 krav)
-  "Grøn 50%" : 5
+  "Grøn 60%" : 6
   "Gul 40%"  : 4
-  "Rød 10%"  : 1
 ```
 
 ```mermaid
@@ -153,8 +152,8 @@ pie showData
 }}}%%
 pie showData
   title Niveau 2 (19 krav)
-  "Grøn 42%" : 8
-  "Gul 42%"  : 8
+  "Grøn 32%" : 6
+  "Gul 53%"  : 10
   "Rød 16%"  : 3
 ```
 
@@ -164,9 +163,9 @@ pie showData
 }}}%%
 pie showData
   title Niveau 3 (8 krav)
-  "Grøn 25%" : 2
-  "Gul 25%"  : 2
-  "Rød 50%"  : 4
+  "Grøn 14%" : 1
+  "Gul 29%"  : 2
+  "Rød 57%"  : 5
 ```
 
 ```mermaid
@@ -175,9 +174,9 @@ pie showData
 }}}%%
 pie showData
   title Samlet (43 krav)
-  "Grøn 40%" : 17
-  "Gul 40%"  : 17
-  "Rød 20%"  : 9
+  "Grøn 35%" : 15
+  "Gul 44%"  : 19
+  "Rød 21%"  : 9
 ```
 
 ---
