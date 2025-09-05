@@ -8,7 +8,8 @@
 > **OS2 website link:** https://www.os2.eu/os2autoproces
 
 ## 📝 Resumé
-[Her skrives et meget kort resumé af den samlede vurdering og anbefaling.]
+
+OS2autoproces har et solidt fundament og leverer tydelig værdi gennem videndeling om automatisering af arbejdsgange i flere kommuner og regioner. Produktet er officielt forankret i OS2 og har styrker i licens, åben kode og etableret styregruppe. Revisionen peger dog på flere gule og røde områder inden for dokumentation, sikkerhed, transparens og governance. På den baggrund anbefales det at fastholde produktet på **niveau 1** i OS2’s governancemodel, med fokus på at modne de svagere områder og dermed skabe grundlag for et muligt løft til niveau 2.
 
 ## 🌍 RELEVANS
 
@@ -197,9 +198,23 @@ Ud fra optællingen kan vi vurdere, hvor produktet står samlet set:
 ---
 
 ### 🔍 Overordnet vurdering
-[Her skrives en samlet vurdering: hvilke styrker, hvilke forbedringspunkter, anbefalinger til næste skridt.]
+
+OS2autoproces står stærkt som et produkt, der allerede er i brug i flere kommuner og regioner, og som har dokumenteret værdi gennem videndeling om automatisering af arbejdsgange. Revisionen viser, at fundamentet er solidt: licensforholdene er på plads, koden er placeret i en OS2-kontrolleret GitHub-organisation, og der er etableret en aktiv styregruppe med bred deltagelse.
+
+Samtidig peger vurderingen på flere udfordringer, især på **formkrav** og **governance**, hvor en større andel af kravene er vurderet som gule eller røde. Det gælder særligt områder som sikkerhed, dokumentation, brug af fælles værktøjer (fx issue-tracking) samt tydeligere strategisk kobling og fællesskabsopbygning. Disse forhold trækker ned i den samlede modenhed.
+
+På den baggrund vurderes OS2autoproces at være placeret på **niveau 1 i OS2’s governancemodel**. Produktet har et godt fundament og viser potentiale til at løftes videre til niveau 2, hvis de identificerede forbedringsområder prioriteres.
 
 ---
 
 ### 📈 Anbefaling
-[Her skrives et overblik over anbefalinger - gerne i punktform]
+
+Det anbefales, at OS2autoproces fastholdes på **niveau 1** i governancemodellen. Produktet har styrker, der gør det til et værdifuldt fællesoffentligt redskab, men der bør arbejdes målrettet med følgende indsatsområder for at realisere potentialet og på sigt bevæge sig mod niveau 2:
+
+- **Sikkerhed:** Etablering af tydelig sikkerhedsdokumentation (fx *SECURITY.md* og trusselsmodeller).
+- **Dokumentation:** Opdatering og standardisering af teknisk og organisatorisk dokumentation efter OS2s standard.
+- **Transparens:** Overgang fra "code dumps" til løbende udvikling i åbne repos samt aktiv brug af offentlig issue-tracking.
+- **Governance:** Formalisering af en brugerklub og fagligt fællesskabet samt koordinationsgruppe og anvendelse af en tydeligere projektmodel.
+- **Strategisk kommunikation:** Styrkelse af politisk rettet materiale og bedre kobling til nationale strategier.
+
+Med disse tiltag kan OS2autoproces styrke både kvaliteten og gennemsigtigheden og dermed skabe endnu større værdi for fællesskabet. Produktet anbefales derfor fastholdt på niveau 1 med et klart potentiale til at avancere.
