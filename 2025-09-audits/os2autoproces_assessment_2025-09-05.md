@@ -163,9 +163,9 @@ pie showData
 }}}%%
 pie showData
   title Niveau 3 (8 krav)
-  "Grøn 14%" : 1
-  "Gul 29%"  : 2
-  "Rød 57%"  : 5
+  "Grøn 13%" : 1
+  "Gul 25%"  : 2
+  "Rød 63%"  : 5
 ```
 
 ```mermaid
