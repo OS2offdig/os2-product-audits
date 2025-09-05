@@ -2,7 +2,8 @@
 
 > **📄 Dokumentinformation**  
 > **Evalueringsskabelon version:** 0.9  
-> **Dato for release:** [05-09-2025]  
+> **Dato for release:** 05-09-2025  
+> **Revision udført af:** Rasmus Frey, rasmus@os2.eu  
 > **GitHub organisation:** https://github.com/Skadesokonomi  
 > **OS2 website link:** https://www.os2.eu/os2skadesokonomi  
 
