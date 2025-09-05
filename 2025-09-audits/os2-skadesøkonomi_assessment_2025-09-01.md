@@ -6,6 +6,10 @@
 > **GitHub organisation:** https://github.com/Skadesokonomi  
 > **OS2 website link:** https://www.os2.eu/os2skadesokonomi  
 
+## 📝 Resumé
+
+OS2-SkadesØkonomi har et godt fundament og tydeligt potentiale, men står endnu ikke helt stærkt på niveau 1, da flere krav kun er delvist opfyldt. Produktet leverer værdi og er relevant for flere kommuner, men bør arbejde målrettet på at styrke dokumentation, sikkerhed og governance. Det anbefales at fastholde placeringen på niveau 1 og fokusere på at modne de gule områder til grønne for at gøre produktet mere robust.
+
 ## 🌍 RELEVANS
 
 | #   | Niveau    | Krav                                             | Vurderingskriterie                                                                  | Vurdering     | Vurderingsgrundlag    |
@@ -188,17 +192,26 @@ pie showData
 - **Niveau 2:** Drift, vedligehold og strategisk understøttelse – mange 🟡 eller 🔴 her peger på modenhedsproblemer.  
 - **Niveau 3:** Avanceret governance og fællesskab – et område, hvor ikke alle produkter nødvendigvis når i mål, men som er ønskværdigt for stabile og bæredygtige produkter.
 
+Ud fra optællingen kan vi vurdere, hvor produktet står samlet set:
+
+- Mange 🟢 → Produktet er solidt forankret i governance-kravene.
+- Mange 🟡 → Produktet har et godt grundlag, men kræver en prioriteret indsats på udvalgte områder.
+- Mange 🔴 → Produktet har alvorlige governance-mangler og kræver en struktureret genopretning.
+
 ---
 
 ### 🔍 Overordnet vurdering
-[Her skrives en samlet vurdering: hvilke styrker, hvilke forbedringspunkter, anbefalinger til næste skridt.]
+
+OS2-SkadesØkonomi har et godt fundament med åben kildekode, organisering og en officiel plads i OS2-porteføljen. Der er dokumentation af formål og værdi, og løsningen bruges i flere kommuner. Samtidig viser revisionen, at der er et relativt stort antal gule vurderinger på både sandkasse- og niveau 1-krav. Det indikerer, at produktet ikke står helt stærkt på niveau 1 endnu, men snarere befinder sig i en fase, hvor fundamentet er lagt, og potentialet er tydeligt.
 
 ---
 
 ### 📈 Anbefaling
 
-Ud fra optællingen kan vi vurdere, hvor produktet står samlet set:
-- Mange 🟢 → Produktet er solidt forankret i governance-kravene.
-- Mange 🟡 → Produktet har et godt grundlag, men kræver en prioriteret indsats på udvalgte områder.
-- Mange 🔴 → Produktet har alvorlige governance-mangler og kræver en struktureret genopretning.
+Det anbefales, at OS2-SkadesØkonomi fastholdes på **niveau 1**, men at fokus i den kommende periode bliver at:
 
+- Konvertere flest mulige gule til grønne, især inden for dokumentation, sikkerhed og organisering.  
+- Fastholde enkelheden i governance (der er ikke nødvendigt at stile efter niveau 3).  
+- Løbende vurdere, om udvalgte elementer fra niveau 2 kan indføres, hvis produktet vokser i udbredelse. 
+
+➡️ Samlet set vurderes produktet at have **et godt fundament og solidt potentiale** – men arbejdet med at modne niveau 1-kravene er afgørende for at gøre det mere robust i fællesskabet.
