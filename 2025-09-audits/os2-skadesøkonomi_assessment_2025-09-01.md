@@ -2,9 +2,9 @@
 
 > **📄 Dokumentinformation**  
 > **Evalueringsskabelon version:** 0.9  
-> **Dato for udfyldelse:** [01-09-2025] 
-> **GitHub organisation:** https://github.com/Skadesokonomi 
-> **OS2 website link:** https://www.os2.eu/os2skadesokonomi 
+> **Dato for udfyldelse:** [01-09-2025]  
+> **GitHub organisation:** https://github.com/Skadesokonomi  
+> **OS2 website link:** https://www.os2.eu/os2skadesokonomi  
 
 ## 🌍 RELEVANS
 
@@ -121,9 +121,7 @@ __Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#2ca02c",   /* grøn */
-  "pie2": "#ffbf00",   /* gul */
-  "pie3": "#d62728"    /* rød */
+  "pie1": "#2ca02c", "pie2": "#ffbf00", "pie3": "#d62728"
 }}}%%
 pie showData
   title Sandkasse (6 krav)
