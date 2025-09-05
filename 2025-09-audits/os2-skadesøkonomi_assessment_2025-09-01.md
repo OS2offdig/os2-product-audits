@@ -121,7 +121,7 @@ __Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+  "pie2": "#008000", "pie1": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Sandkasse (6 krav)
