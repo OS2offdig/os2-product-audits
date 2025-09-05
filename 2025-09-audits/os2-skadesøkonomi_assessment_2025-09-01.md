@@ -2,7 +2,7 @@
 
 > **📄 Dokumentinformation**  
 > **Evalueringsskabelon version:** 0.9  
-> **Dato for udfyldelse:** [01-09-2025]  
+> **Dato for release:** [05-09-2025]  
 > **GitHub organisation:** https://github.com/Skadesokonomi  
 > **OS2 website link:** https://www.os2.eu/os2skadesokonomi  
 
@@ -121,7 +121,7 @@ __Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#2ca02c", "pie2": "#ffbf00", "pie3": "#d62728"
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Sandkasse (6 krav)
@@ -132,7 +132,7 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#2ca02c", "pie2": "#ffbf00", "pie3": "#d62728"
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Niveau 1 (10 krav)
@@ -143,7 +143,7 @@ pie showData
 
 ```mermaid
   %%{init: {"themeVariables": {
-  "pie1": "#2ca02c", "pie2": "#ffbf00", "pie3": "#d62728"
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Niveau 2 (19 krav)
@@ -154,7 +154,7 @@ pie showData
 
 ```mermaid
   %%{init: {"themeVariables": {
-  "pie1": "#2ca02c", "pie2": "#ffbf00", "pie3": "#d62728"
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Niveau 3 (8 krav)
@@ -165,7 +165,7 @@ pie showData
 
 ```mermaid
   %%{init: {"themeVariables": {
-  "pie1": "#2ca02c", "pie2": "#ffbf00", "pie3": "#d62728"
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Samlet (43 krav)
