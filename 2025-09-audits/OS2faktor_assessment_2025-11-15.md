@@ -83,8 +83,6 @@ På denne baggrund vurderes OS2faktor til **ikke** at ligge højere end **niveau
 | G14 | 3 | Fagligt fællesskab bag løsningen | Standard: Aktivt fællesskab, fx brugerklub, forum eller andet netværk. | 🔴 | Ingen formaliseret brugerklub eller fagligt netværk omkring OS2faktor. |
 
 
----
-
 ### ➡️ Antal krav fordelt på tema
 * Relevans: *4 krav* (R1–R4)
 * Formkrav: *20 krav* (F1–F22, minus F8 og F9 som er sammenlagt med F7)
@@ -102,15 +100,11 @@ Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse o
 * Niveau 3: *8 krav* (43 i alt)
 * *I alt: 43 krav*
 
----
-
 ### 🏷️ Hvad betyder trafiklysene?
 
 - 🟢 **Grøn** → Kravet er fuldt opfyldt og fungerer som forventet.
 - 🟡 **Gul** → Kravet er delvist opfyldt, men der er mangler, som bør adresseres.
 - 🔴 **Rød** → Kravet er ikke opfyldt, og der er behov for handling.
-
----
 
 ### 📊 Optælling af vurderinger pr. niveau og tema
 
@@ -135,6 +129,12 @@ Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse o
 <!--
 Nedenfor er mermaid kode til at vise procentfordeling i lagkagediagrammer.
 Bemærk at mermaid renderer efter størrelse på værdi. Så er Grøn størst vil det være pie1, men er rød størst vil det være pie1. Derfor skal du ændre på themeVariables så farvekoder bliver korrekte.
+
+Color codes used:
+Green: 008000
+Yellow: FFFF00
+Red: FF0000
+
 -->
 
 ```mermaid
@@ -150,7 +150,7 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+  "pie2": "#008000", "pie1": "#FFFF00", "pie3": "#FF0000"
 }}}%%
 pie showData
   title Niveau 1 (10 krav)
@@ -161,7 +161,7 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+  "pie3": "#008000", "pie1": "#FFFF00", "pie2": "#FF0000"
 }}}%%
 pie showData
   title Niveau 2 (19 krav)
@@ -172,7 +172,7 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie2": "#FFFF00", "pie3": "#FF0000", "pie1": "#008000"
+  "pie3": "#FFFF00", "pie2": "#FF0000", "pie1": "#008000"
 }}}%%
 pie showData
   title Niveau 3 (8 krav)
@@ -183,7 +183,7 @@ pie showData
 
 ```mermaid
 %%{init: {"themeVariables": {
-  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+  "pie3": "#008000", "pie1": "#FFFF00", "pie2": "#FF0000"
 }}}%%
 pie showData
   title Samlet (43 krav)
@@ -191,10 +191,6 @@ pie showData
   "Gul 51% (22)"  : 22
   "Rød 28% (12)"  : 12
 ```
-
----
-
-### 📋 Hvordan bruges optællingen?
 
 ### 📋 Hvordan bruges optællingen?
 
@@ -208,8 +204,6 @@ Ud fra optællingen kan vi vurdere, hvor produktet står samlet set:
 - Mange 🟢 → Produktet er solidt forankret i governance-kravene.
 - Mange 🟡 → Produktet har et godt grundlag, men kræver en prioriteret indsats på udvalgte områder.
 - Mange 🔴 → Produktet har alvorlige governance-mangler og kræver en struktureret genopretning.
-
----
 
 ### 🔍 Overordnet vurdering
 
@@ -226,7 +220,6 @@ Governance-mæssigt er der dog væsentlige huller:
 
 Samlet vurderes OS2faktor til **niveau 1** i OS2’s governancemodel. Produktet er stabilt nok til at være i porteføljen og anvendes bredt, men governance og dokumentation er ikke stærke nok til at retfærdiggøre niveau 2.
 
----
 
 ### 📈 Anbefaling
 
