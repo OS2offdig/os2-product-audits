@@ -33,14 +33,14 @@ Evalueringsskabelonen bruges til at gennemføre selve vurderingen. Den sikrer, a
 Skabelonen gør det muligt at sammenligne produkter og følge udviklingen over tid.
 
 
-## 🏷️ Hvad betyder trafiklysene?
+## Hvad betyder trafiklysene?
 
 - 🟢 **Grøn** → Kravet er fuldt opfyldt og fungerer som forventet.  
 - 🟡 **Gul** → Kravet er delvist opfyldt, men der er mangler, som bør adresseres.  
 - 🔴 **Rød** → Kravet er ikke opfyldt, og der er behov for handling.
 
 
-## 📋 Hvordan bruges optællingen?
+## Hvordan bruges optællingen?
 
 - **Sandkasse:** Grundlæggende formalia – mange 🔴 her betyder, at produktet skal løftes bare for at blive betragtet som OS2-kompatibelt.  
 - **Niveau 1:** Basis governance og dokumentation – mange 🟡 eller 🔴 her peger på udfordringer med at skabe overblik og ejerskab.  
