@@ -1,9 +1,9 @@
 ---
 title: Evalueringer
 layout: default
-nav_order: 1
+nav_order: 2
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # Evalueringsrapporter for OS2-produkter

@@ -1,9 +1,7 @@
 ---
 title: Vurdering af OS2faktor
 layout: default
-nav_order: 3
-has_children: false
-has_toc: true
+parent: Evalueringer
 ---
 
 # Vurdering af OS2-produktet: **OS2faktor**

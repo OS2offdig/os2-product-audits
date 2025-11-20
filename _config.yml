@@ -1,5 +1,5 @@
-title: Revision af OS2-produkter
-description: Revisionsrapporter udarbejdet i henhold til OS2s governance-model.
+title: Audits af OS2-produkter
+description: Evaluerings- og vurderingsrapporter udarbejdet i henhold til OS2s governance-model.
 theme: just-the-docs
 logo: "/assets/images/os2_logo.png"
 color_scheme: wider
@@ -10,6 +10,6 @@ mermaid:
   version: "11.9.0"
 
 aux_links:
-  Repository: https://github.com/OS2offdig/os2-product-reviews
+  Repository: https://github.com/OS2offdig/os2-product-audits
 #  Maintainers: ./MAINTAINERS
 #  Contribute: ./CONTRIBUTING
