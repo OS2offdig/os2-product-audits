@@ -67,7 +67,7 @@ const kravData = {
   ]
 };
 
-const statusChoices = ["Ja", "Nej", "Ikke relevant", "Ved ikke"];
+const statusChoices = ["Ja", "Nej", "Ikke relevant", "Ved ikke", "Planlagt"];
 
 function sectionTitle(key) {
   return ({ relevans: "Relevans", formkrav: "Formkrav", strategisk: "Strategisk sammenhæng", governance: "Governance" })[key] || key;
@@ -100,7 +100,8 @@ function render() {
             <li>(JA) ✅ Kriteriet er opfyldt</li>
             <li>(NEJ) ❌ Kriteriet er IKKE opfyldt</li>
             <li>(Ikke relevant) ➖ Kriteriet er ikke relevant for dette produkt</li>
-            <li>(Ved ikke) ❓ Der er tvivl om, hvordan dette kriterie evalueres</li>
+            <li>(Ved ikke) ❌ Der er tvivl om, hvordan dette kriterie evalueres</li>
+            <li>(Planlagt) 🟡 Kriteriet er ikke opfyldt endnu, men der er planlagt en indsats</li>
           </ul>
 
           <p>

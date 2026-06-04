@@ -72,6 +72,7 @@ function render() {
     <blockquote class="note">
       <p>Denne formular anvendes til at generere en governancerapport baseret på data fra en selvevaluering.</p>
       <p>Upload JSON fra selvevaluering og generér en udfyldt rapport i Markdown-format.</p>
+      <p>Gyldige statusvalg: Ja, Nej, Ikke relevant, Ved ikke og Planlagt.</p>
     </blockquote>
     <div class="row g-3 mb-3">
       <div class="col-12 col-md-4"><label class="form-label">JSON-fil</label><input id="jsonFile" class="form-control" type="file" accept=".json,application/json"></div>
