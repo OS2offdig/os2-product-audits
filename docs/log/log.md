@@ -1,7 +1,7 @@
 ---
 title: Log
 layout: default
-nav_order: 1
+nav_order: 100
 has_children: false
 has_toc: true
 ---
