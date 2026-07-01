@@ -1,3 +1,10 @@
+---
+title: OS2faktor evalueringsrapport (KLADDE)
+layout: default
+parent: Evalueringsrapporter
+nav_exclude: true
+---
+
 # Evaluering af OS2-produkt: OS2faktor
 
 BEMÆRK AT EVALUERINGEN ER AUTOGENERERET. HVILKET BETYDER DEN ENDDNU IKKE ER ENDELIG
