@@ -1,0 +1,77 @@
+---
+title: OS2faktor governancerapport
+layout: default
+parent: Selvevalueringer
+nav_exclude: true
+---
+
+# Governancerapport for OS2faktor
+
+> **📄 Dokumentinformation**<br/>
+> **Version for anvendt governancerapport:** 1.1.0<br/>
+> **Dato for udfyldelse:** 01-07-2026<br/>
+> **Udfyldt af:** Steen Deth, Gentofte<br/>
+> **Link til Git organisation:** https://github.com/os2faktor<br/>
+
+## RELEVANS
+
+| # | Krav | Produktniveau | Retningslinjer | Efterlevet? | Dokumentation |
+| --- | --------------------------------------------- | ------------- | -------------- | ----------- | ------------- |
+| R1 | Løsningen skaber lokal værdi | sandkasse | Beskriv den konkrete værdi løsningen skaber i organisationen. F.eks. økonomisk, organisatorisk eller brugerrelateret. | Ja | Værdibeskrivelse af OS2faktor<br/>OS2faktor giver organisationen en fælles og lokalt forankret platform for sikker adgang til digitale løsninger. Værdien ligger ikke alene i, at brugerne får multifaktor-login. Den væsentlige værdi er, at organisationen får bedre styring med identiteter, adgange, roller og sikkerhed på tværs af systemer.<br/>OS2faktor er derfor en strategisk byggeklods i kommunens digitale infrastruktur. Løsningen understøtter en mere ensartet, sikker og brugervenlig adgang til systemer, samtidig med at kommunen bevarer kontrol over egne adgangsmodeller og kan stille tydeligere krav til leverandører og integrationer.<br/>Ledelsesmæssig kerneværdi<br/>OS2faktor bidrager til, at organisationen kan arbejde mere sikkert, mere ensartet og mere effektivt med digital adgang. I praksis betyder det, at brugere kan få adgang via single sign-on, at adgang kan beskyttes med multifaktorautentificering, og at systemer kan modtage relevante oplysninger om brugerens identitet, organisatoriske placering og roller.<br/>Økonomisk værdi<br/>Den økonomiske værdi ved OS2faktor ligger især i at reducere kompleksitet, dobbeltarbejde og afhængighed af enkeltstående løsninger.<br/>Når flere systemer kan kobles til en fælles identitetsplatform, reduceres behovet for lokale brugerkonti, særskilte loginløsninger og manuelle adgangsprocesser i hvert enkelt system. Det giver mindre administration, færre fejl og mere genbrug af eksisterende integrationsmønstre.<br/>OS2faktor kan samtidig reducere omkostninger forbundet med sikkerhedshændelser. Stærkere adgangskontrol, multifaktorautentificering og bedre styring af brugeradgange mindsker risikoen for kompromitterede konti, uautoriseret adgang og efterfølgende driftsforstyrrelser. Det er ofte på dette område, den største økonomiske gevinst ligger: ikke som en direkte besparelse på én konto, men som reduceret risiko, mindre manuel håndtering og færre følgeomkostninger ved fejl eller hændelser.<br/>Derudover styrker løsningen kommunens forhandlings- og styringsposition over for leverandører. Når kommunen har en fælles og moden adgangsplatform, kan nye løsninger i højere grad tilsluttes kommunens eksisterende standarder for login, roller og sikkerhed i stedet for at etablere nye særskilte adgangsmodeller.<br/>Organisatorisk værdi<br/>Organisatorisk giver OS2faktor en mere sammenhængende og professionel adgangsstyring. Det bliver nemmere at beskrive, hvem der har ansvar for brugeradgang, hvilke roller der giver adgang til hvilke systemer, og hvordan adgang etableres, ændres og afsluttes.<br/>For medarbejderne giver løsningen en mere enkel brugeroplevelse. Single sign-on og fælles login reducerer friktion i hverdagen, mens multifaktorautentificering øger sikkerheden uden at hvert enkelt fagsystem skal opfinde sin egen metode.<br/>For IT og sikkerhedsorganisationen giver OS2faktor bedre mulighed for standardisering. Adgang kan i højere grad styres efter fælles principper, og integrationer kan baseres på kendte standarder som SAML, OpenID Connect og PKCE. Det gør løsningen mere robust og mindre afhængig af specialtilpasninger.<br/>For fagområderne betyder det, at digitalisering kan ske på et mere sikkert fundament. Nye løsninger kan kobles på en fælles adgangsmodel, og organisationen kan i højere grad sikre, at adgang følger medarbejderens organisatoriske tilknytning og rolle.<br/>Sikkerheds- og complianceværdi<br/>OS2faktor understøtter en mere kontrolleret adgang til kommunens net- og informationssystemer. Løsningen styrker arbejdet med multifaktorautentificering, adgangskontrol og dokumenterbare sikkerhedsforanstaltninger, som er centrale elementer i både NIS2, ISO27001/27002 og kommunens generelle modenhedsarbejde på informationssikkerhedsområdet.<br/>Ved at samle adgangsstyringen ét sted bliver det lettere at håndhæve fælles krav til login, sessioner, brugerstatus og adgangsniveau. Det reducerer risikoen for lokale undtagelser, skyggebrugere og adgangsmodeller, der ikke længere er tidssvarende.<br/>Samtidig giver løsningen bedre sporbarhed og bedre grundlag for hændelseshåndtering. Når adgangsveje og autentifikation er standardiseret, bliver det lettere at opdage, undersøge og reagere på mistænkelig aktivitet.<br/>Strategisk betydning<br/>OS2faktor bør ses som en fælles digital infrastrukturkomponent på linje med netværk, klientstyring og sikkerhedsovervågning. Det er en løsning, der gør det muligt at løfte sikkerheden uden at gøre digitaliseringen unødigt tung.<br/>Den strategiske værdi er, at kommunen får en adgangsplatform, der både kan understøtte den daglige drift, nye digitale løsninger, lokale integrationer og fremtidige krav til sikkerhed og compliance.<br/>OS2faktor giver dermed organisationen tre centrale gevinster:<br/>1.	Bedre sikkerhed gennem stærkere og mere ensartet adgangskontrol.<br/>2.	Bedre drift gennem færre manuelle adgangsprocesser og mindre kompleksitet.<br/>3.	Bedre styring gennem fælles standarder, tydeligere ansvar og mere dokumenterbar compliance.<br/>Samlet set er OS2faktor ikke kun en teknisk loginløsning. Det er et organisatorisk styringsværktøj, der hjælper kommunen med at skabe sikker, effektiv og fremtidssikret digital adgang. |
+| R2 | Løsningen er accepteret af lokal linjeledelse | 2 | Beskriv eller henvis til en formel accept fra ledelse hos initiativtagerne til løsningen. | Ja | Der er en stor tilslutning til OS2faktor udviklingsfællesskab. Baseret på dette er der en accept af OS2faktor i den lokale ledelse |
+| R3 | Løsningen har fælles offentligt potentiale | 2 | Redegør for hvordan løsningen kan bruges på tværs af kommuner og/eller offentlige myndigheder. | Ja | Løsningen har som standard snitflade til FK adgangsstyring, STIL og andre fælles offentlige adgangskomponenter.<br/>Løsningen følger DIGST SAML vejledning.<br/>Løsningen sikre en god integration og login oplevelse for brugerne til MitID Erhverv |
+| R4 | Ophæng til nationale strategier er til stede | 3 | Henvis til relevante strategier og forklar hvordan løsningen understøtter disse. | Ja | OS2faktor understøtter "Strategi for brugerstyring" https://arkitektur.digst.dk/sites/default/fileuploads/Referencearkitekturer/RA_brugerstyring/v1.1/Strategi_for_brugerstyring_pdfa.pdf<br/>OS2faktor er den kommunale indgang til understøttelse af  eIDAS-forordningen, NSIS-standarden |
+
+## FORMKRAV
+
+| # | Krav | Produktniveau | Retningslinjer | Efterlevet? | Dokumentation |
+| --- | --------------------------------------------- | ------------- | -------------- | ----------- | ------------- |
+| F1 | Alt kildekode til projektet udvikles synligt og aktivt i et repositorie og versionskontrolsystem, anvist af OS2 | sandkasse | Upload al kildekode i et offentligt OS2 repository med aktiv versionshistorik. | Ja | https://github.com/OS2faktor |
+| F2 | Open Source licenskriterier overholdes | sandkasse | Angiv hvilken OSI-godkendt licens projektet bruger. OS2 standard er MPL 2.0 | Ja | https://github.com/OS2faktor/OS2faktor-Login/blob/master/LICENSE |
+| F3 | Udbudsregler og alm. lovformlighed er overholdt | sandkasse | Bekræft at udbudspligt er overholdt eller redegør for undtagelse. Vedlæg evt. beslutningsnotat. | Planlagt | Der bør udarbejdes et forklaringsnotat på hvornår der skal laves udbud |
+| F4 | Der er tænkt på sikkerheden i løsningen | sandkasse | Beskriv hvordan sikkerhed er indtænkt i design, kode og drift – f.eks. kryptering, adgangsstyring. | Ja | Løsningens udvikling er baseret på security-by-design, og tilhørende er der udarbejdet revision af hhv udviklingsprocesser og drift af løsningen. |
+| F5 | Løsningens formål og værdi er beskrevet | sandkasse | Henvis til dokumentation (f.eks. README) hvor formål og målgruppe fremgår. | Planlagt | [Ikke udfyldt] |
+| F6 | Kildekoden er overdraget og er placeret under OS2's kontrol | 1 | Bekræft og link til det officielle repository i OS2s versionskontrol. | Ja | https://github.com/OS2faktor |
+| F7 | Alt dokumentation til projektet udarbejdes med og overholder OS2s standardskabelon for dokumentation. | 1 | Brug OS2’s standard template til dokumentation. [Documentation template for OS2 projects](http://github.com/OS2offdig/os2-docs-template) | Nej | Findes som word og pdf dokumenter |
+| F10 | OS2's kommunikationskanaler anvendes (OS2.eu) | 1 | Bekræft og link til omtale på f.eks. os2.eu, nyhedsbrev eller andet. | Ja | Meget lidt... |
+| F11 | Der anvendes offentlig issue-tracking anvist af OS2, hvor der tydeligt henvises til specifikke kodeændringer | 1 | Henvis til f.eks. Issues, hvor opgaver er koblet til pull-requests/commits. | Nej | Der anvendes OS2's jira som issue tracker, men kodestyringen kører ikke med reference til OS2s jira |
+| F12 | Der er kun en version af core koden | 2 | Bekræft at der kun findes én ‘main’ version og at den er aktivt vedligeholdt. | Ja | [Ikke udfyldt] |
+| F13 | Der er udarbejdet præsentationsmateriale af løsningen | 2 | Link til f.eks. slides, brochurer eller andet introduktionsmateriale. | Ja | https://www.os2faktor.dk |
+| F14 | Der er udarbejdet kommunikationsmateriale til strategisk niveau | 2 | F.eks. businesscase, one-pager til direktionsniveau og præsentation til udvalg. | Ja | https://www.os2faktor.dk/documentation/OS2faktor%20Login%20Whitepaper.pdf |
+| F15 | Best practice for implementering i organisationen dokumenteres | 2 | Angiv implementeringsvejledning, erfaringsopsamling eller cases. | Ja | https://www.os2faktor.dk/docs.html |
+| F16 | Teknisk dokumentation indeholder best practice for kodestandarder i forhold til de anvendte teknologier | 2 | Beskriv Hvilke kodestandarder projektet følger. Evt. med links til eksterne guides og supplerende retningslinjer. | Planlagt | [Ikke udfyldt] |
+| F17 | Drifts og vedligeholdelses setup er beskrevet | 2 | Redegør for driftspartner(e), ansvar og finansiering. Hvem drifter, hvem vedligeholder og hvem koordinere. Beskriv også Hvordan kører løsningen? (on-prem, cloud, container, SaaS). Hvilke komponenter indgår? (fx databaser, API’er, microservices). Hvilke værktøjer bruges til monitorering, deployment og backup. | Planlagt | [Ikke udfyldt] |
+| F18 | Rammearkitekturen og standarder er fulgt og afvigelser er forklaret | 2 | Beskriv om/hvordan løsningen følger fællesoffentlig rammearkitektur – eller forklar hvorfor ikke. | Ja | [Ikke udfyldt] |
+| F19 | Løsningen er leveret i et containerformat f.eks. docker (anbefaling) | 2 | Angiv om løsningen tilbydes i en containeriseret version som definerer hvordan applikationen bygges og køres. | Ja | [Ikke udfyldt] |
+| F20 | Uddannelsesmateriale er udarbejdet (anbefaling) | 2 | Henvis til manual, brugervejledning eller andet brugerrelateret materiale. | Ja | https://www.os2faktor.dk/docs.html  -  men måske kigge på en adminsitrator-brugervejledning |
+| F21 | Politisk kommunikation er udarbejdet (Lokal + Omverden) | 3 | Angiv indhold der kan bruges i politiske fora – f.eks. beslutningsoplæg eller pressemeddelelse. | Nej | [Ikke udfyldt] |
+| F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet | 3 | Tilføj en implementeringsplan med ‘hvem gør hvad hvornår’. | Planlagt | [Ikke udfyldt] |
+
+## STRATEGISK SAMMENHÆNG
+
+| # | Krav | Produktniveau | Retningslinjer | Efterlevet? | Dokumentation |
+| --- | --------------------------------------------- | ------------- | -------------- | ----------- | ------------- |
+| S1 | Produktet har en kobling til OS2's strategi | 1 | Beskriv hvordan produktet understøtter tværoffentlige behov, deling og fællesskab. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| S2 | Løsningen understøtter innovation og open source | 1 | Angiv hvordan open source-værdier og nyskabelse er tænkt ind. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| S3 | Produktets (forventlige) kobling til OS2's mission, vision og strategi er beskrevet | 2 | Angiv hvor produktet matcher med OS2's formål og indsatser. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| S4 | Der er udarbejdet en vision og strategi for produktet | 2 | Beskriv produktvision og strategiske mål. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| S5 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet | 3 | Forklar hvordan løsningen passer ind i OS2’s overordnede værdisæt og visioner. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+
+## GOVERNANCE
+
+| # | Krav | Produktniveau | Retningslinjer | Efterlevet? | Dokumentation |
+| --- | --------------------------------------------- | ------------- | -------------- | ----------- | ------------- |
+ | G1 | Produktet er oprettet i OS2's porteføljestyring | 1 | Produktet er oprettet på OS2s hjemmeside og indgår i årshjul. Dette koordineres med sekretariatet i OS2. | Ja | [Ikke udfyldt] |
+| G2 | Der koordineres løbende med OS2-sekretariatet | 1 | Bekræft, evt. med årshjul/datoer/mails for koordinering. | Ja | [Ikke udfyldt] |
+| G3 | Der er udpeget en projektleder/tovholder | 1 | Navngiv og beskriv rolle og opgaver. | Ja | [Ikke udfyldt] |
+| G4 | Bestyrelsen er orienteret | 1 | Vedlæg dokumentation for orientering. | Ja | [Ikke udfyldt] |
+| G5 | Bestyrelsen har godkendt produktet | 2 | Vedlæg dokumentation for godkendelse. | Ja | [Ikke udfyldt] |
+| G6 | Der er nedsat en styregruppe | 2 | Beskrivelse af styregruppen og roller/ansvar/opgaver. | Planlagt | [Ikke udfyldt] |
+| G7 | Der er nedsat en koordinationsgruppe (anbefaling) | 2 | Beskrivelse af koordinationsgruppen og roller/ansvar/opgaver. | Ja | [Ikke udfyldt] |
+| G8 | En projektmodel anvendes og er dokumenteret (anbefaling) | 2 | Beskiv den anvendte projektmodel eller metode. | Planlagt | Har vi noget? |
+| G9 | Review af kode foretages af tredjepart (anbefaling) | 2 | Angiv hvilken ekstern part som udfører eller har udført review. Link til processbeskrivelse samt revisionsrapporter. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| G10 | Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling) | 2 | Vedlæg eller henvis til dokument for tilslutning og økonomi. | Ja | [Ikke udfyldt] |
+| G11 | Bestyrelsen har godkendt styregruppen | 3 | Vedlæg dokumentation for beslutning. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| G12 | Bestyrelsen er repræsenteret i styregruppen | 3 | Angiv hvilket medlem som deltager på vegne af bestyrelsen. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
+| G13 | Der foreligger en aftale der sikrer økonomi til koordinering og videreudvikling | 3 | Vedlæg eller beskriv finansieringsaftalen. | Ja | [Ikke udfyldt] |
+| G14 | Der er etableret et fagligt fællesskab bag løsningen hvor erfaringer kan udveksles | 3 | Henvis til brugerforum og/eller årshjul for aktiviteter. | [Udfyldes i selvevaluering] | [Ikke udfyldt] |
