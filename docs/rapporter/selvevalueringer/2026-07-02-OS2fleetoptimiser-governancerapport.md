@@ -9,7 +9,7 @@ nav_exclude: true
 
 > **📄 Dokumentinformation**<br/>
 > **Version for anvendt governancerapport:** 1.1.0<br/>
-> **Dato for udfyldelse:** 02-07-2026<br/>
+> **Dato for udfyldelse:** 2026-06-12<br/>
 > **Udfyldt af:** Sofie Buhl<br/>
 > **Link til Git organisation:** https://github.com/os2fleetoptimiser<br/>
 

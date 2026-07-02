@@ -5,11 +5,11 @@ parent: Selvevalueringer
 nav_exclude: true
 ---
 
-# Governancerapport for OS2faktor
+# [KLADDE] Governancerapport for OS2faktor
 
 > **📄 Dokumentinformation**<br/>
 > **Version for anvendt governancerapport:** 1.1.0<br/>
-> **Dato for udfyldelse:** 01-07-2026<br/>
+> **Dato for udfyldelse:** 2026-05-12<br/>
 > **Udfyldt af:** Steen Deth, Gentofte<br/>
 > **Link til Git organisation:** https://github.com/os2faktor<br/>
 
