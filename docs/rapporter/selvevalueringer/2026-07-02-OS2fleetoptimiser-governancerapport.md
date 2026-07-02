@@ -5,7 +5,7 @@ parent: Selvevalueringer
 nav_exclude: true
 ---
 
-# [KLADDE] Governancerapport for OS2FleetOptimiser
+# Governancerapport for OS2FleetOptimiser
 
 > **📄 Dokumentinformation**<br/>
 > **Version for anvendt governancerapport:** 1.1.0<br/>
