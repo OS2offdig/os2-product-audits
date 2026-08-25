@@ -1,3 +1,10 @@
+---
+title: OS2aiHeatControl governancerapport
+layout: default
+parent: Selvevalueringer
+nav_exclude: true
+---
+
 # Governancerapport for OS2 AI Heat Control
 
 > **📄 Dokumentinformation**  
