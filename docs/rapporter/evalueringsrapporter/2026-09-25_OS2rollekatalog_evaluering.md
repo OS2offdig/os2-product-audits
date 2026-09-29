@@ -12,7 +12,7 @@ nav_exclude: true
 **Dato for udfyldelse:** 2026-09-29<br />
 **Udfyldt af:** Rasmus Frey, Sekretariatschef OS2-sekretariatet<br />
 **Link til Git organisation:** <https://github.com/os2rollekatalog><br />
-**Seneste selvevaluering/governanceraport: [Se governancerapporten](../selvevaluering/2026-07-02-OS2rollekatalog-governancerapport.md)
+**Seneste selvevaluering/governanceraport:** [Se governancerapporten](../selvevaluering/2026-07-02-OS2rollekatalog-governancerapport)<br />
 **Status:** Fremsendt til produktforvaltningen for OS2rollekatalog
 
 ## Resumé
