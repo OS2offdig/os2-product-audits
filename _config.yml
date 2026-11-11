@@ -29,5 +29,7 @@ mermaid:
 
 aux_links:
   Repository: https://github.com/OS2offdig/os2-product-audits
+  Issues this site: https://github.com/OS2offdig/os2-product-audits/issues
+  Issues governance-model: https://github.com/OS2offdig/governance_report_template/issues
 #  Maintainers: ./MAINTAINERS
 #  Contribute: ./CONTRIBUTING
