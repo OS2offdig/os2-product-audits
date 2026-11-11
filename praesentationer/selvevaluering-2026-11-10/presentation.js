@@ -1,3 +1,10 @@
+// Brug Tall som standard i talernotevinduet.
+try {
+  localStorage.setItem('reveal-speaker-layout', 'tall');
+} catch {
+  // Præsentationen virker også, hvis browseren blokerer lagring.
+}
+
 // Præsentationens indstillinger. Tider angives i sekunder.
 Reveal.initialize({
   width: 1200,
